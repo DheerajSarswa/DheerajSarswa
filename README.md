@@ -29,6 +29,9 @@
 - **Credit Card Default Prediction** (not yet on GitHub):  
   Built a model to predict credit card default risk using various ML algorithms.
 
+- - **Python Project Series** (https://github.com/DheerajSarswa/Python-Project-Series):  
+  Built 21 unique python projects with different level of hardness(just for learning).
+
 ---
 
 ## 📚 About Me
